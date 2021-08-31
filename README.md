@@ -1,3 +1,4 @@
 # Big-data
 ## Reaserch Areas
-Blockchain data mining
+Data Mining
+* Block Data Mining
