@@ -1,4 +1,6 @@
 # Big-data
 ## Reaserch Areas
 Data Mining
-* Block Data Mining
+* Blockchain Data Mining
+* [Communication-Efficiency](#Communication-Efficiency (29))
+
