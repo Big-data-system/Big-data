@@ -4,7 +4,7 @@
 * [Blockchain Data Mining](#Blockchain Data Mining)
 
 * ...
- - [Blockchain](#Blockchain (1))
+ - [Blockchain Data Mining](#Blockchain Data Mining)
 
 ## Blockchain Data Mining
 [Understanding Ethereum via Graph Analysis，2020-TOIT](https://dl.acm.org/doi/pdf/10.1145/3381036)
