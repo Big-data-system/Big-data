@@ -1,7 +1,7 @@
 # Big-data-system
 ## Reaserch Areas
 #### Data Mining
- - [Blockchain Data Mining](#Distributed-optimization (68))
+ - [Blockchain Data Mining](#Blockchain Data Mining (68))
 
 ## Blockchain Data Mining
 [Understanding Ethereum via Graph Analysis，2020-TOIT](https://dl.acm.org/doi/pdf/10.1145/3381036)
